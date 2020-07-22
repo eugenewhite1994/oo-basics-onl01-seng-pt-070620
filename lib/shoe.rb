@@ -42,6 +42,8 @@ end
 def cobble(cobble)
   puts "The shoe has been repaired"
 end
+
+Shoe.cobble
 end
 
 cobble = Shoe.new(" The shoe has been repaired")

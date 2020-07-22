@@ -41,5 +41,5 @@ end
 end
 
 cobble = Shoe.new(" The shoe has been repaired")
-cobble.new
+cobble.shoe
     

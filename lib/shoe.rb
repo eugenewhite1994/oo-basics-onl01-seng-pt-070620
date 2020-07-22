@@ -40,4 +40,6 @@ def condition
 end
 end
 
+cobble = Shoe.new 
+cobble = condition.new
     

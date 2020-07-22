@@ -48,5 +48,6 @@ def cobble
 end
 end
 
-Shoe.cobble
+cobble = Shoe.new 
+cobble.cobble
     

@@ -38,7 +38,11 @@ end
 def condition
   @condition
 end
+
+def cobble(cobble)
+  puts "The shoe has been repaired"
 end
+
 
 cobble = Shoe.new(" The shoe has been repaired")
 cobble.condition

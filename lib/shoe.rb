@@ -39,7 +39,7 @@ def condition
   @condition
 end
 
-def cobble(cobble)
+def cobble
   puts "The shoe has been repaired"
 end
 
